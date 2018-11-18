@@ -40,7 +40,7 @@ $info_add = $row->field_field_address_info[0]['raw']['value'];
 		<div class="row">
 			<div class="heading_top">
 				<h1 class="hidden-sm hidden-xs">How to find us</h1>
-				<h1 class="hidden-md hidden-md">Find us</h1>
+				<h1 class="hidden-md hidden-lg">Find us</h1>
 			</div>
 			<div class="col-md-12 padd_0">
 			      <div id="map"></div>
