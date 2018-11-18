@@ -1,0 +1,30 @@
+
+name = greeklabel
+description = Greek Label
+package = Core
+version = VERSION
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = assets/css/bootstrap.min.css
+stylesheets[all][] = assets/css/custom.css
+stylesheets[all][] = assets/css/media.css
+stylesheets[all][] = assets/js/slick/slick-theme.css
+stylesheets[all][] = assets/js/slick/slick.css
+
+
+scripts[] = assets/js/jquery.min.js
+scripts[] = assets/js/slick/slick.min.js
+scripts[] = assets/js/scrollify-master/jquery.scrollify.js
+scripts[] = assets/js/custom.js
+
+regions[contact] = contact
+regions[content] = Content
+
+
+
+
+; Information added by Drupal.org packaging script on 2018-10-17
+version = "1.0"
+project = "drupal"
+datestamp = "1539816636"
