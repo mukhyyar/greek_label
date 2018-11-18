@@ -228,13 +228,13 @@ div#bodyContent p {
         margin-bottom: 12px;
 }
 
-div#messages {
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    z-index: 9999;
-    left: 0;
-    right: 0;
-    display: table-cell;
-    vertical-align: middle;
-}
+/* div#messages { */
+    /* position: absolute; */
+    /* top: 50%; */
+    /* bottom: 50%; */
+    /* z-index: 9999; */
+    /* left: 0; */
+    /* right: 0; */
+    /* display: table-cell; */
+    /* vertical-align: middle; */
+/* } */
