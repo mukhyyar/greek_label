@@ -8,14 +8,18 @@ Developed with using of views module by overriding views / nodes of differnt con
 - I've created content types for all section 
 
 ## I've created 04 content types 
-	- Section 2/3/4 (for Section 2/3/4)
-	- services (for services section)
-	- Client (for client section)
-	- Google Map (for mission section conent)
-		- Latitude input area
-		- Longitude input area
-		- Pinpoint popup info text 
 
+ - Section 2/3/4 (for Section 2/3/4)
+ - services (for services section)
+ - Client (for client section)
+ - Google Map (for mission section conent)
+	 - Latitude input area
+	 - Longitude input area
+	 - Pinpoint popup info text
+
+## Datbase
+
+ - You can find the databse in the same repository or through this [link](https://github.com/mukhyyar/greek_label/tree/master/database) 
 
 ## Module
 - [views](https://www.drupal.org/project/views) _(partial support)_
